@@ -17,3 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css)
 ![Html](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java)
+
+* Database Management Systems:
+<br> ![SQLite](https://img.shields.io/badge/DBMS-Mysql-2fa1ad?style=for-the-badge&logo=mysql)
+![sqlmicrosoft](https://img.shields.io/badge/DBMS-microsoft_sql_server-2fa1ad?style=for-the-badge&logo=microsoftsqlserver)
