@@ -9,3 +9,4 @@
 * Editors: 
 <br> ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
+![IDEA](https://img.shields.io/badge/Editors-intellij_idea-2fa1ad?style=for-the-badge&logo=intellijidea)
