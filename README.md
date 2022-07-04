@@ -12,7 +12,7 @@
 ![IDEA](https://img.shields.io/badge/Editors-intellij_idea-red?style=for-the-badge&logo=intellijidea)
 * Languages:
 <br> ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=csharp)
-![Xaml](https://img.shields.io/badge/-XAML-yellow?style=for-the-badge&logo=xaml)
+![Xaml](https://img.shields.io/badge/-XAML-9cf?style=for-the-badge&logo=xaml)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css)
 ![Html](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
 ![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java)
