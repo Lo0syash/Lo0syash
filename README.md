@@ -4,6 +4,5 @@
 ### 💨My main hobby is learning new programming languages, don't be surprised if there is little frontend blanks or idea.
 
 ### 🔧 Technologies & Tools
-* Operating Systems:
-# ![Flutter](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
+* Operating Systems: ![Flutter](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
 
