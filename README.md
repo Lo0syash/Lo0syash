@@ -10,3 +10,5 @@
 <br> ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
 ![IDEA](https://img.shields.io/badge/Editors-intellij_idea-red?style=for-the-badge&logo=intellijidea)
+* Languages:
+<br> ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=csharp)
