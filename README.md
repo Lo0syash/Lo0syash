@@ -5,5 +5,5 @@
 
 ### 🔧 Technologies & Tools
 * Operating Systems: 
-![Flutter](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
+* ![Flutter](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
 
