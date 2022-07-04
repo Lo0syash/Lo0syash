@@ -24,4 +24,5 @@
 
 ### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
+
 <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lo0syash)](https://github.com/anuraghazra/github-readme-stats)
