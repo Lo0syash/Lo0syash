@@ -31,4 +31,4 @@
 [![telegram](https://img.shields.io/badge/Telegram-Go-2fa1ad?style=for-the-badge&logo=telegram)](https://t.me/ezGamez)
 
 ### 💸 Support me
-<br> [![support](https://img.shields.io/badge/Support-899415?style=for-the-badge&logo=litecoin&logoColor=red)](https://sobe.ru/na/g212o0o7I084)
+[![support](https://img.shields.io/badge/Support-899415?style=for-the-badge&logo=litecoin&logoColor=red)](https://sobe.ru/na/g212o0o7I084)
