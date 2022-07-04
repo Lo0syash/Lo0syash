@@ -21,3 +21,5 @@
 * Database Management Systems:
 <br> ![SQLite](https://img.shields.io/badge/DBMS-Mysql-114b59?style=for-the-badge&logo=mysql&logoColor=blue)
 ![sqlmicrosoft](https://img.shields.io/badge/DBMS-microsoft_sql_server-2fa1ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 📈 GitHub Stats
