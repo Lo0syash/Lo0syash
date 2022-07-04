@@ -29,3 +29,6 @@
 ### 👥 Contacts
 [![email](https://img.shields.io/badge/Email-go-2fa1ad?style=for-the-badge&logo=gmail)](https://mailhide.io/e/5RRUiw9T)
 [![telegram](https://img.shields.io/badge/Telegram-Go-2fa1ad?style=for-the-badge&logo=telegram)](https://t.me/ezGamez)
+
+### 💸 Support me
+<br> [![support](https://img.shields.io/badge/Support-899415?style=for-the-badge&logo=litecoin&logoColor=red)](https://sobe.ru/na/g212o0o7I084)
