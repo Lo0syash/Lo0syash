@@ -24,6 +24,4 @@
 ![sqlmicrosoft](https://img.shields.io/badge/DBMS-microsoft_sql_server-2fa1ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lo0syash)](https://github.com/anuraghazra/github-readme-stats)
-
-<br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
+![Lo0syash GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
