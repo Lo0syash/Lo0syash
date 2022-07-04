@@ -14,9 +14,10 @@
 * Languages:
 <br> ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=csharp)
 ![Xaml](https://img.shields.io/badge/-XAML-inactive?style=for-the-badge&logo=xaml)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css)
-![Html](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)
-![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge)
+![Html](https://img.shields.io/badge/-html-orange?style=for-the-badge)
+![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge)
+![tsql](https://img.shields.io/badge/-tsql-green?style=for-the-badge)
 
 * Database Management Systems:
 <br> ![SQLite](https://img.shields.io/badge/DBMS-Mysql-114b59?style=for-the-badge&logo=mysql&logoColor=blue)
