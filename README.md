@@ -7,5 +7,5 @@
 * Operating Systems: 
 <br> ![Windows](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
 * Editors: 
-<br> ![Visual Studio](https://img.shields.io/badge/Editors-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
-![Visual Studio Code](https://img.shields.io/badge/Editors-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
+<br> ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
+![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
