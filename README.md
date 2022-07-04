@@ -27,5 +27,5 @@
 ![Lo0syash GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
 
 ### 👥 Contacts
-[![Visual Studio](https://img.shields.io/badge/Email-go-2fa1ad?style=for-the-badge&logo=gmail)](https://mailhide.io/e/5RRUiw9T)
-[![Visual Studio Code](https://img.shields.io/badge/Telegram-Go-2fa1ad?style=for-the-badge&logo=telegram)](https://t.me/ezGamez)
+[![email](https://img.shields.io/badge/Email-go-2fa1ad?style=for-the-badge&logo=gmail)](https://mailhide.io/e/5RRUiw9T)
+[![telegram](https://img.shields.io/badge/Telegram-Go-2fa1ad?style=for-the-badge&logo=telegram)](https://t.me/ezGamez)
