@@ -14,8 +14,8 @@
 * Languages:
 <br> ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=csharp)
 ![Xaml](https://img.shields.io/badge/-XAML-inactive?style=for-the-badge&logo=xaml)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge)
-![Html](https://img.shields.io/badge/-html-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge)
+![Html](https://img.shields.io/badge/-html5-orange?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge)
 ![tsql](https://img.shields.io/badge/-tsql-green?style=for-the-badge)
 
