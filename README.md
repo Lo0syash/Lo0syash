@@ -18,7 +18,7 @@
 ![Html](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5)
 ![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge)
 ![tsql](https://img.shields.io/badge/-tsql-green?style=for-the-badge)
-![Js](https://img.shields.io/badge/-Java_Script-green?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-Java_Script-green?style=for-the-badge)
 
 * Database Management Systems:
 <br> ![SQLite](https://img.shields.io/badge/DBMS-Mysql-114b59?style=for-the-badge&logo=mysql&logoColor=blue)
