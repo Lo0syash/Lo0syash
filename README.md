@@ -9,8 +9,8 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 * Editors: 
-<br> ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
-![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
+<br> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IDEA](https://img.shields.io/badge/Editors-intellij_idea-red?style=for-the-badge&logo=intellijidea)
 
 * Languages:
