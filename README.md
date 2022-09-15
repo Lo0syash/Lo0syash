@@ -5,7 +5,9 @@
 
 ### 🔧 Technologies & Tools
 * Operating Systems: 
-<br> ![Windows](https://img.shields.io/badge/OS-Windows-2fa1ad?style=for-the-badge&logo=Windows)
+<br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 * Editors: 
 <br> ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-2fa1ad?style=for-the-badge&logo=VisualStudio)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-2fa1ad?style=for-the-badge&logo=VisualStudio)
@@ -28,8 +30,8 @@
 ![Lo0syash GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
 
 ### 👥 Contacts
-[![email](https://img.shields.io/badge/Email-go-2fa1ad?style=for-the-badge&logo=gmail)](https://mailhide.io/e/5RRUiw9T)
-[![telegram](https://img.shields.io/badge/Telegram-Go-2fa1ad?style=for-the-badge&logo=telegram)](https://t.me/ezGamez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/5RRUiw9T)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ezGamez)
 
 ### 💸 Support me
 [![support](https://img.shields.io/badge/Support-899415?style=for-the-badge&logo=litecoin&logoColor=red)](https://sobe.ru/na/g212o0o7I084)
