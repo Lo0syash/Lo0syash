@@ -12,17 +12,17 @@
 ![IDEA](https://img.shields.io/badge/Editors-intellij_idea-red?style=for-the-badge&logo=intellijidea)
 
 * Languages:
-<br> ![C#](https://img.shields.io/badge/-C_Sharp-purple?style=for-the-badge&logo=csharp)
+<br> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Xaml](https://img.shields.io/badge/-XAML-inactive?style=for-the-badge&logo=xaml)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![Html](https://img.shields.io/badge/-html5-orange?style=for-the-badge&logo=html5)
-![Java](https://img.shields.io/badge/-java-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![tsql](https://img.shields.io/badge/-tsql-green?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 * Database Management Systems:
-<br> ![SQLite](https://img.shields.io/badge/DBMS-Mysql-114b59?style=for-the-badge&logo=mysql&logoColor=blue)
-![sqlmicrosoft](https://img.shields.io/badge/DBMS-microsoft_sql_server-2fa1ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Lo0syash GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
