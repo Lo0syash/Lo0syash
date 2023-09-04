@@ -28,7 +28,7 @@
 
 ### 👥 Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/5RRUiw9T)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mxwhkq)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mxvhkq)
 
 ### 💸 Support me
 [![support](https://img.shields.io/badge/Support-899415?style=for-the-badge&logo=litecoin&logoColor=red)](https://sobe.ru/na/g212o0o7I084)
