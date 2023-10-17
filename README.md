@@ -28,7 +28,6 @@
 ![Lo0syash GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo0syash&show_icons=true&theme=dracula)
 
 ### 👥 Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/5RRUiw9T)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mxvhkq)
 
 ### 💸 Support me
