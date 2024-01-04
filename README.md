@@ -12,6 +12,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IDEA](https://img.shields.io/badge/intellij_idea-red?style=for-the-badge&logo=intellijidea)
 ![IDEA](https://img.shields.io/badge/phpstorm-purple?style=for-the-badge&logo=phpstorm)
+![IDEA](https://img.shields.io/badge/webstorm-blue?style=for-the-badge&logo=webstorm)
 
 * Languages:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
