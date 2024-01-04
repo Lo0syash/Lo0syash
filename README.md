@@ -13,7 +13,7 @@
 ![IDEA](https://img.shields.io/badge/intellij_idea-red?style=for-the-badge&logo=intellijidea)
 ![IDEA](https://img.shields.io/badge/phpstorm-purple?style=for-the-badge&logo=phpstorm)
 
-* Languages:
+* Languages:<br>
 <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
