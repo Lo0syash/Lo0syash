@@ -24,7 +24,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
 
 * Database Management Systems:
 <br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
